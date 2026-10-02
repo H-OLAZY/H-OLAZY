@@ -14,12 +14,13 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css" />
 </p>
 
-###  Наша Команда:
-| Аватар | Имя | Роль | GitHub |
-| :---: | :---: | :---: | :---: |
-| <img src="https://github.com/KOTKOLDUN.png" width="50" /> | **Тихон** | Team Lead |(https://github.com/KOTKOLDUN) |
-| <img src="https://github.com/antarkk.png" width="50" /> | **Федор** | Senior Developer | (https://github.com/antarkk) |
-| <img src="https://github.com/ЛОГИН_СОУЧАСТНИКА_2.png" width="50" /> | **Даня** | Junior Developer | [@ЛОГИН_СОУЧАСТНИКА_2](https://github.com/ЛОГИН_СОУЧАСТНИКА_2) |
+## Наша Команда
+
+| Аватар | Имя | Роль | Профиль GitHub |
+| :---: | :--- | :--- | :--- |
+| <img src="https://github.com/KOTKOLDUN.png" width="40" height="40" style="border-radius:50%"> | Тихон | Team Lead / Architect | [@KOTKOLDUN](https://github.com/KOTKOLDUN) |
+| <img src="https://github.com/antarkk.png" width="40" height="40" style="border-radius:50%"> | Федор | Senior Developer | [@antarkk](https://github.com/antarkk) |
+| 👤 | Даня | Junior Developer | [Профиль соучастника](https://github.com) |
 
 
 
