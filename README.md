@@ -20,7 +20,7 @@
 | :---: | :--- | :--- | :--- |
 | <img src="https://github.com/KOTKOLDUN.png" width="40" height="40" style="border-radius:50%"> | Тихон | Team Lead / Architect | [@KOTKOLDUN](https://github.com/KOTKOLDUN) |
 | <img src="https://github.com/antarkk.png" width="40" height="40" style="border-radius:50%"> | Федор | Senior Developer | [@antarkk](https://github.com/antarkk) |
-| 👤 | Даня | Junior Developer | [Профиль соучастника](https://github.com) |
+| <img src="https://github.com/Proz3tra.png" width="40" height="40" style="border-radius:50%"> | Даня | Junior Developer | [@Proz3tra](https://github.com/Proz3tra) |
 
 
 
